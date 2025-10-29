@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=d2edf4&height=180&text=Hello%20I'm%20Jieun&animation=fadeIn&fontColor=3a3636&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:b8e7ff,100:f791e6&height=180&text=Hello%20I'm%20Jieun&animation=fadeIn&fontColor=3a3636&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경험을 담는 앱 개발자 이지은 입니다! </h2>  
