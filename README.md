@@ -21,4 +21,31 @@
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           </div>
+
     </div>
+    <div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📚 Education · Awards · Certificate</h2><br>
+  
+  <!-- 학력 -->
+  <div style="font-weight: 700; font-size: 15px; line-height: 1.8; text-align: center; color: #282d33;">
+    중앙대학교 경영학부 심화 전공 졸업<br>
+    삼성 SW·AI 아카데미 12기 수료<br>
+    서울시 청년취업사관학교 안드로이드 / Jetpack Compose 과정 (~ing)
+  </div>
+  
+  <br>
+  
+  <!-- 수상 -->
+  <div style="font-weight: 600; font-size: 14px; line-height: 1.7; text-align: center; color: #555;">
+    🏆 삼성 SW·AI 아카데미 12기 자율 프로젝트 <span style="color: #f791e6;">우수상</span><br>
+    🏆 삼성 SW 아카데미 12기 공통 프로젝트 <span style="color: #f791e6;">우수상</span>
+  </div>
+
+  <br>
+  
+  <!-- 자격증 -->
+  <div style="font-weight: 600; font-size: 14px; line-height: 1.7; text-align: center; color: #555;">
+    📜 데이터 분석 준전문가 (ADsP)
+  </div>
+</div>
+
