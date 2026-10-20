@@ -104,7 +104,7 @@
 
 <br>
 
-### 📝 [momo]()
+### 📝 [momo](https://play.google.com/store/apps/details?id=com.jinnylee.momo&pcampaignid=web_share)
 > OCR 기반 개인 메모 Android 앱(스토어 출시)
 
 **Kotlin · Jetpack Compose · Hilt · Room · ML Kit**
